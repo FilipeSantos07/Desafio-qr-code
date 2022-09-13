@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Noto+Sans:wght@400;700&family=Outfit:wght@400;700&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+}
+body {
+    
+    background: hsl(212, 45%, 89%);
+}
+main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    background: hsl(0, 0%, 100%);
+    text-align: center;
+    padding: 16px 16px 22px 16px;
+    border-radius: 20px;
+}
+.container img {
+    width: 285px;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+.container h2 {
+    font-weight: 700;
+    font-size: 1.35rem;
+    margin-bottom: 0.9rem;
+    color: hsl(218, 44%, 22%);
+}
+.container p {
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 1rem;
+    color: hsl(220, 15%, 55%);
+}
