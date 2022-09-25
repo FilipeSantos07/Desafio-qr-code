@@ -7,15 +7,15 @@
     font-family: 'Outfit', sans-serif;
 }
 body {
-    
-    background: hsl(212, 45%, 89%);
-}
-main {
     width: 100vw;
     height: 100vh;
+    background: hsl(212, 45%, 89%);
     display: flex;
-    justify-content: center;
-    align-items: center;
+    
+}
+main {
+    max-width: 320px;
+    margin: auto;
 }
 .container {
     background: hsl(0, 0%, 100%);
