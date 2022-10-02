@@ -15,4 +15,4 @@ Nesse projeto simples eu repliquei o mais próximo possível o resultado final d
 
 ## 💛 Contato
 
-outerspaceguy@live.co.uk
+FilipeSantosEstudos1@gmail.com
